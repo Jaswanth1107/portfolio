@@ -1,5 +1,4 @@
-# Amir Babu Portfolio
-# Amir Babu Portfolio
+# Raya Jaswanth's Portfolio
 
 A personal portfolio website built with PHP, HTML, CSS, and Bootstrap to showcase the profile, skills, and projects of **Amir Babu**, a B.Tech CSE student.
 
